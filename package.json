@@ -1,0 +1,19 @@
+{
+    "name": "@types/jaemyeongson-node-iap",
+    "version": "1.0.11",
+    "description": "In-app purchase validation for Apple, Google, Amazon, Roku", 
+    "license": "MIT",
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JaeMyeongSon/Jaemyeong-Node-IAP",
+        "directory": "types/jaemyeongson-node-iap"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/express": "*"
+    },
+    "typesPublisherContentHash": "d6e0b8326018a6ccef93e1809fa2a750fd6bb39bc934431642c0c3471c561e8f",
+    "typeScriptVersion": "4.1"
+}
